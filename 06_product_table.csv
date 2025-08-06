@@ -1,0 +1,78 @@
+product_id,category,product_name,start_date,unit_price,unit_cost
+1,Office,Office chair,16/02/2021,11900,7000
+2,Rugs,Large rug,16/02/2021,25500,15000
+3,Bedroom,Bed sheets,16/02/2021,39100,23000
+4,Decor,Wall clock,16/02/2021,1360,800
+5,Lighting,Wall lamp,16/02/2021,1700,1000
+6,Living Room,Recliner,16/02/2021,51000,30000
+7,Outdoor,Sun lounger,16/02/2021,17000,10000
+8,Living Room,Sectional sofa,16/02/2021,30600,18000
+9,Office,Desk,16/02/2021,34000,20000
+10,Dining,Dining bench,16/02/2021,68000,40000
+11,Bedroom,Pillow,16/02/2021,629,370
+12,Rugs,Runner rug,16/02/2021,37400,22000
+13,Living Room,Side table,16/02/2021,5100,3000
+14,Decor,Decorative mirror,16/02/2021,7310,4300
+15,Bedroom,Bedroom Sets,16/02/2021,306000,180000
+16,Lighting,Decorative light,16/02/2021,5440,3200
+17,Storage,Shelving unit,16/02/2021,10200,6000
+18,Lighting,Hanging lamp,16/02/2021,1292,760
+19,Storage,Storage cabinet,16/02/2021,102000,60000
+20,Decor,Table clock,16/02/2021,680,400
+21,Outdoor,Patio chair,16/02/2021,6800,4000
+22,Decor,Clock,16/02/2021,612,360
+23,Decor,Accent table,16/02/2021,11900,7000
+24,Bedroom,Quilt,16/02/2021,5100,3000
+25,Bedroom,Kids wardrobe,16/02/2021,13600,8000
+26,Rugs,Medium rug,16/02/2021,17000,10000
+27,Rugs,Small rug,16/02/2021,14620,8600
+28,Outdoor,Garden bench,16/02/2021,5100,3000
+29,Lighting,Table lamp,16/02/2021,595,350
+30,Dining,Crockery unit,16/02/2021,102000,60000
+31,Outdoor,Outdoor sofa,16/02/2021,51000,30000
+32,Bedroom,Kids bed ,16/02/2021,42500,25000
+33,Dining,Dining set (4-seater),16/02/2021,102000,60000
+34,Decor,Pouf,16/02/2021,6800,4000
+35,Bedroom,King bed,16/02/2021,25500,15000
+36,Outdoor,Patio table,16/02/2021,20400,12000
+37,Living Room,TV stand,16/02/2021,17000,10000
+38,Bedroom,Bedside table,16/02/2021,5950,3500
+39,Living Room,Loveseat,16/02/2021,11900,7000
+40,Dining,Sideboard,16/02/2021,3400,2000
+41,Decor,Accent chair,16/02/2021,5100,3000
+42,Bedroom,Chest of drawers,16/02/2021,8500,5000
+43,Office,File cabinet,16/02/2021,23800,14000
+44,Living Room,Coffee table,16/02/2021,42500,25000
+45,Dining,Dining set (8-seater),16/02/2021,1700000,1000000
+46,Bedroom,Coverlet,16/02/2021,2550,1500
+47,Storage,Storage Furniture,16/02/2021,34000,20000
+48,Decor,Sand clock,16/02/2021,1020,600
+49,Bedroom,Queen bed,16/02/2021,23800,14000
+50,Bedroom,Twin bed,16/02/2021,17000,10000
+51,Bedroom,Bunk bed,16/02/2021,17000,10000
+52,Bedroom,Storage bed,16/02/2021,13600,8000
+53,Bedroom,Canopy bed,16/02/2021,13600,8000
+54,Bedroom,Dresser,16/02/2021,28900,17000
+55,Bedroom,Nightstand,16/02/2021,8500,5000
+56,Bedroom,Wardrobe,16/02/2021,42500,25000
+57,Bedroom,Armoire,16/02/2021,20400,12000
+58,Decor,Coat rack,16/02/2021,10200,6000
+59,Bedroom,Kids chaire,16/02/2021,8500,5000
+60,Bedroom,Crib,16/02/2021,7650,4500
+61,Storage,Kids Cainet,16/02/2021,10200,6000
+62,Bedroom,Comforter set,16/02/2021,59500,35000
+63,Bedroom,Blanket,16/02/2021,8500,5000
+64,Bedroom,Throw,16/02/2021,5950,3500
+65,Bedroom,Pillowcase,16/02/2021,204,120
+66,Bedroom,Mattress protector,16/02/2021,425,250
+67,Rugs,Round rug,16/02/2021,42500,25000
+68,Lighting,Floor lamp,16/02/2021,1190,700
+69,Decor,Photo frame,16/02/2021,510,300
+70,Decor,Poster,16/02/2021,1360,800
+71,Decor,Wall art,16/02/2021,2550,1500
+72,Decor,Framed artwork,16/02/2021,2890,1700
+73,Dining,Dining chair,16/02/2021,6800,4000
+74,Dining,Buffet,16/02/2021,10200,6000
+75,Living Room,Armchair,16/02/2021,5440,3200
+76,Office,Bookcase,16/02/2021,34000,20000
+77,Living Room,Console table,16/02/2021,22100,13000
